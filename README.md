@@ -1,1 +1,6 @@
-# Bayesian_stats_with_Pystan
+# Bayesian stats with Pystan
+StanとRでベイズ統計モデリングをPystanを用いて学習した時の備忘メモです。
+
+# 文献
+<a  target="_blank" href="https://www.amazon.co.jp/Stan%E3%81%A8R%E3%81%A7%E3%83%99%E3%82%A4%E3%82%BA%E7%B5%B1%E8%A8%88%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0-Wonderful-R-%E6%9D%BE%E6%B5%A6-%E5%81%A5%E5%A4%AA%E9%83%8E/dp/4320112423?SubscriptionId=AKIAIM37F4M6SCT5W23Q&amp;tag=lvdrfree-22&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=4320112423"><img  class="pict" style="margin-right:10px" align="left" hspace="5" border="0" alt="StanとRでベイズ統計モデリング (Wonderful R)" src="https://images-fe.ssl-images-amazon.com/images/I/416xdqDozvL._SL160_.jpg"></a></div><div  class="itemTitle"><a  target="_blank" href="https://www.amazon.co.jp/Stan%E3%81%A8R%E3%81%A7%E3%83%99%E3%82%A4%E3%82%BA%E7%B5%B1%E8%A8%88%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0-Wonderful-R-%E6%9D%BE%E6%B5%A6-%E5%81%A5%E5%A4%AA%E9%83%8E/dp/4320112423?SubscriptionId=AKIAIM37F4M6SCT5W23Q&amp;amp;tag=lvdrfree-22&amp;amp;linkCode=xm2&amp;amp;camp=2025&amp;amp;creative=165953&amp;amp;creativeASIN=4320112423">StanとRでベイズ統計モデリング (Wonderful R) [単行本]</a></div><div  class="itemSubTxt">松浦 健太郎</div><div  class="itemSubTxt">共立出版</div><div  class="itemSubTxt">2016-10-25</div></div><br  style="clear:left" clear="left">
+
